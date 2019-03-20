@@ -28,11 +28,10 @@ Amber::Server.configure do
   end
 
   routes :web do
-    # get "/", HomeController, :index
   end
 
   routes :api do
-    get "/", HomeController, :index
+    get "/*", API::V1::ApplicationController, :not_found
   end
 
   routes :static do
