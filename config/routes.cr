@@ -29,7 +29,6 @@ Amber::Server.configure do
   end
 
   routes :web do
-    get "/test", ApplicationController, :test
   end
 
   routes :api do
