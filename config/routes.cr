@@ -10,7 +10,7 @@ Amber::Server.configure do
     plug Amber::Pipe::Session.new
     plug Amber::Pipe::Flash.new
     plug Amber::Pipe::CSRF.new
-    plug Amber::Pipe::RouteCaser.new
+    #plug Amber::Pipe::RouteCaser.new
   end
 
   pipeline :api do
