@@ -1,0 +1,73 @@
+zaaaaaaa
+08:32:04 Server     | (INFO) Amber 0.11.3 serving application "Api_0x2c6_io" at http://0.0.0.0:3000
+08:32:04 Server     | (INFO) Server started in development.
+08:32:04 Server     | (INFO) Startup Time 00:00:00.000696000
+08:32:04 Watcher    | (INFO) Watching 11 files (browser reload)...
+08:32:08 Request    | Started 2019-03-24 20:32:08 +04:00
+08:32:08 Request    | Status: 200 Method: GET Pipeline: api Format: html
+08:32:08 Request    | Requested Url: /
+08:32:08 Request    | Time Elapsed: 290.0µs
+08:32:08 Headers    | Host: ["localhost:3000"]
+08:32:08 Headers    | Connection: ["keep-alive"]
+08:32:08 Headers    | Cache-Control: ["max-age=0"]
+08:32:08 Headers    | Upgrade-Insecure-Requests: ["1"]
+08:32:08 Headers    | User-Agent: ["Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36"]
+08:32:08 Headers    | Accept: ["text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8"]
+08:32:08 Headers    | Accept-Encoding: ["gzip, deflate, br"]
+08:32:08 Headers    | Accept-Language: ["en-US,en;q=0.9,tr;q=0.8,az;q=0.7,cy;q=0.6"]
+08:32:08 Headers    | Cookie: ["_x2c6_session=VVhhMlBHYW5SZUs2ZS9IUnFKZTB0NEtSR1d0ajFOR1BhdTRhR3NNazlSVXBpazZaOXJZWUt0eS9rd2NSOWM5NVYrSzdVWVBvdG1WbWJoV2cvM0JMNEFiUm55K2g4ZlYrd2hManl3Q0Y0ZENDUjIxL040c2ZCRk51My9MdGpvS1NVYVJqSjVoaVJZcGtlM0FCWngzUjRBPT0tLVhXbDg4d0YzMDNFS0J1NWJTdWRwQWc9PQ%3D%3D--7ab014b0611959ff776f2de4047ad073e9baf4f7; amber.session=eyJfZmxhc2giOiJ7fSJ9--7zTvks6ogBed6WseSHDaNX%2FSOec%3D"]
+08:32:08 Cookies    | _x2c6_session: #<HTTP::Cookie:0x108539300>
+08:32:08 Cookies    | amber.session: #<HTTP::Cookie:0x1085391e0>
+08:32:08 Session    | _flash: {}
+08:32:08 Request    | Started 2019-03-24 20:32:08 +04:00
+08:32:08 Request    | Status: 200 Method: GET Pipeline: api Format: ico
+08:32:08 Request    | Requested Url: /favicon.ico
+08:32:08 Request    | Time Elapsed: 121.0µs
+08:32:08 Headers    | Host: ["localhost:3000"]
+08:32:08 Headers    | Connection: ["keep-alive"]
+08:32:08 Headers    | User-Agent: ["Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36"]
+08:32:08 Headers    | Accept: ["image/webp,image/apng,image/*,*/*;q=0.8"]
+08:32:08 Headers    | Referer: ["http://localhost:3000/"]
+08:32:08 Headers    | Accept-Encoding: ["gzip, deflate, br"]
+08:32:08 Headers    | Accept-Language: ["en-US,en;q=0.9,tr;q=0.8,az;q=0.7,cy;q=0.6"]
+08:32:08 Headers    | Cookie: ["_x2c6_session=VVhhMlBHYW5SZUs2ZS9IUnFKZTB0NEtSR1d0ajFOR1BhdTRhR3NNazlSVXBpazZaOXJZWUt0eS9rd2NSOWM5NVYrSzdVWVBvdG1WbWJoV2cvM0JMNEFiUm55K2g4ZlYrd2hManl3Q0Y0ZENDUjIxL040c2ZCRk51My9MdGpvS1NVYVJqSjVoaVJZcGtlM0FCWngzUjRBPT0tLVhXbDg4d0YzMDNFS0J1NWJTdWRwQWc9PQ%3D%3D--7ab014b0611959ff776f2de4047ad073e9baf4f7; amber.session=eyJfZmxhc2giOiJ7fSJ9--7zTvks6ogBed6WseSHDaNX%2FSOec%3D"]
+08:32:08 Cookies    | _x2c6_session: #<HTTP::Cookie:0x109d44a80>
+08:32:08 Cookies    | amber.session: #<HTTP::Cookie:0x109d44960>
+08:32:08 Session    | _flash: {}
+08:32:12 Server     | (INFO) Shutting down Amber
+08:32:16 Server     | (INFO) Amber 0.11.3 serving application "Api_0x2c6_io" at http://0.0.0.0:3000
+08:32:16 Server     | (INFO) Server started in development.
+08:32:16 Server     | (INFO) Startup Time 00:00:00.000878000
+08:32:16 Watcher    | (INFO) Watching 11 files (browser reload)...
+08:32:17 Request    | Started 2019-03-24 20:32:17 +04:00
+08:32:17 Request    | Status: 200 Method: GET Pipeline: api Format: html
+08:32:17 Request    | Requested Url: /
+08:32:17 Request    | Time Elapsed: 356.0µs
+08:32:17 Headers    | Host: ["localhost:3000"]
+08:32:17 Headers    | Connection: ["keep-alive"]
+08:32:17 Headers    | Cache-Control: ["max-age=0"]
+08:32:17 Headers    | Upgrade-Insecure-Requests: ["1"]
+08:32:17 Headers    | User-Agent: ["Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36"]
+08:32:17 Headers    | Accept: ["text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8"]
+08:32:17 Headers    | Accept-Encoding: ["gzip, deflate, br"]
+08:32:17 Headers    | Accept-Language: ["en-US,en;q=0.9,tr;q=0.8,az;q=0.7,cy;q=0.6"]
+08:32:17 Headers    | Cookie: ["_x2c6_session=VVhhMlBHYW5SZUs2ZS9IUnFKZTB0NEtSR1d0ajFOR1BhdTRhR3NNazlSVXBpazZaOXJZWUt0eS9rd2NSOWM5NVYrSzdVWVBvdG1WbWJoV2cvM0JMNEFiUm55K2g4ZlYrd2hManl3Q0Y0ZENDUjIxL040c2ZCRk51My9MdGpvS1NVYVJqSjVoaVJZcGtlM0FCWngzUjRBPT0tLVhXbDg4d0YzMDNFS0J1NWJTdWRwQWc9PQ%3D%3D--7ab014b0611959ff776f2de4047ad073e9baf4f7; amber.session=eyJfZmxhc2giOiJ7fSJ9--7zTvks6ogBed6WseSHDaNX%2FSOec%3D"]
+08:32:17 Cookies    | _x2c6_session: #<HTTP::Cookie:0x1044cbc00>
+08:32:17 Cookies    | amber.session: #<HTTP::Cookie:0x1044cbae0>
+08:32:17 Session    | _flash: {}
+08:32:18 Request    | Started 2019-03-24 20:32:18 +04:00
+08:32:18 Request    | Status: 200 Method: GET Pipeline: api Format: ico
+08:32:18 Request    | Requested Url: /favicon.ico
+08:32:18 Request    | Time Elapsed: 136.0µs
+08:32:18 Headers    | Host: ["localhost:3000"]
+08:32:18 Headers    | Connection: ["keep-alive"]
+08:32:18 Headers    | User-Agent: ["Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36"]
+08:32:18 Headers    | Accept: ["image/webp,image/apng,image/*,*/*;q=0.8"]
+08:32:18 Headers    | Referer: ["http://localhost:3000/"]
+08:32:18 Headers    | Accept-Encoding: ["gzip, deflate, br"]
+08:32:18 Headers    | Accept-Language: ["en-US,en;q=0.9,tr;q=0.8,az;q=0.7,cy;q=0.6"]
+08:32:18 Headers    | Cookie: ["_x2c6_session=VVhhMlBHYW5SZUs2ZS9IUnFKZTB0NEtSR1d0ajFOR1BhdTRhR3NNazlSVXBpazZaOXJZWUt0eS9rd2NSOWM5NVYrSzdVWVBvdG1WbWJoV2cvM0JMNEFiUm55K2g4ZlYrd2hManl3Q0Y0ZENDUjIxL040c2ZCRk51My9MdGpvS1NVYVJqSjVoaVJZcGtlM0FCWngzUjRBPT0tLVhXbDg4d0YzMDNFS0J1NWJTdWRwQWc9PQ%3D%3D--7ab014b0611959ff776f2de4047ad073e9baf4f7; amber.session=eyJfZmxhc2giOiJ7fSJ9--7zTvks6ogBed6WseSHDaNX%2FSOec%3D"]
+08:32:18 Cookies    | _x2c6_session: #<HTTP::Cookie:0x105cd8ba0>
+08:32:18 Cookies    | amber.session: #<HTTP::Cookie:0x105cd8a80>
+08:32:18 Session    | _flash: {}
+08:32:27 Server     | (INFO) Shutting down Amber

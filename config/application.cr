@@ -7,6 +7,8 @@ require "amber"
 require "../src/controllers/application_controller"
 require "../src/controllers/**"
 
+require "route_caser"
+
 # About Application.cr File
 #
 # This is Amber application main entry point. This file is responsible for loading
@@ -45,6 +47,10 @@ Amber::Server.configure do |settings|
   # settings.logging.filter = %w(password confirm_password)
   # settings.logging.skip = %w()
   # settings.logging.context = %w(request headers cookies session params)
+  if ENV["AMBER_ENV"] == "production"
+    settings.logging.colorize = false
+    settings.logger = Amber::Environment::LoggerBuilder.logger(File.open("production.log", "a"), settings.logging)
+  end
   #
   #
   # Secret Key Base: is used for specifying a key which allows sessions

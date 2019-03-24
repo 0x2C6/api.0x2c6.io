@@ -92,6 +92,10 @@ shards:
     github: stefanwille/crystal-redis
     version: 2.0.0
 
+  route_caser:
+    github: 0x2c6/route_caser
+    commit: 8ac1b5d562703dfd8833bad4c1b64bbf7fa3adda
+
   selenium:
     github: ysbaddaden/selenium-webdriver-crystal
     version: 0.4.0

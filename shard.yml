@@ -41,6 +41,11 @@ dependencies:
     github: amberframework/citrine-i18n
     version: 0.3.2
 
+  # route_caser:
+  #   github: 0x2c6/route_caser
+  #   version: 0.1.0
+  #   branch: master
+
 development_dependencies:
   garnet_spec:
     github: amberframework/garnet-spec
