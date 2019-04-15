@@ -7,6 +7,9 @@ require "amber"
 require "../src/controllers/application_controller"
 require "../src/controllers/**"
 
+require "crystagiri"
+require "hq"
+
 # require "route_caser"
 
 # About Application.cr File

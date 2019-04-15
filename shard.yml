@@ -41,6 +41,9 @@ dependencies:
     github: amberframework/citrine-i18n
     version: 0.3.2
 
+  crystagiri:
+    github: madeindjs/crystagiri
+     
   # route_caser:
   #   github: 0x2c6/route_caser
   #   version: 0.1.0

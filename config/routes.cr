@@ -26,12 +26,14 @@ Amber::Server.configure do
     plug Amber::Pipe::PoweredByAmber.new
     plug Amber::Pipe::Error.new
     plug Amber::Pipe::Static.new("./public")
+    # plug Amber::Pipe::RouteCaser.new
   end
 
   routes :web do
   end
 
   routes :api do
+    get "/currency", API::V1::CurrencyController, :index
     get "/*", API::V1::ApplicationController, :not_found
   end
 
