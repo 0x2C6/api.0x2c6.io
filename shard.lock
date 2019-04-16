@@ -48,10 +48,6 @@ shards:
     github: amberframework/granite
     version: 0.15.2
 
-  hq:
-    github: maiha/hq.cr
-    version: 0.2.3
-
   i18n:
     github: TechMagister/i18n.cr
     version: 0.2.0
@@ -75,10 +71,6 @@ shards:
   micrate:
     github: amberframework/micrate
     version: 0.3.3
-
-  myhtml:
-    github: kostya/myhtml
-    version: 0.12
 
   mysql:
     github: crystal-lang/crystal-mysql
@@ -127,8 +119,4 @@ shards:
   teeplate:
     github: mosop/teeplate
     version: 0.7.0
-
-  try:
-    github: maiha/try.cr
-    version: 0.3.0
 
