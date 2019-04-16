@@ -45,4 +45,4 @@ crystal spec
 
 ## Contributors
 
-- [your-github-user](https://github.com/0x2C6) Farhad - creator, maintainer
+- [0x2C6](https://github.com/0x2C6 ) Farhad - creator, maintainer
