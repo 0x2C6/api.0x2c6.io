@@ -10,3 +10,6 @@ production.yml
 /bin/
 /node_modules
 .encryption_key
+public/dist/main.bundle.js
+main.bundle.css
+production.log
